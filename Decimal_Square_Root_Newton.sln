@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decimal_Square_Root_Newton", "Decimal_Square_Root_Newton\Decimal_Square_Root_Newton.csproj", "{AC2391DE-561E-4065-8A46-8417146CA29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2391DE-561E-4065-8A46-8417146CA29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2391DE-561E-4065-8A46-8417146CA29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2391DE-561E-4065-8A46-8417146CA29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2391DE-561E-4065-8A46-8417146CA29C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C34FF8-587C-41B8-9798-8CFE7D0A4438}
+	EndGlobalSection
+EndGlobal
